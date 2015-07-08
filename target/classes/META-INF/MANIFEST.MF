@@ -1,6 +1,0 @@
-Manifest-Version: 1.0
-Built-By: Guisi
-Build-Jdk: 1.8.0_45
-Main-Class: br.com.guisi.simulador.trafego.SimuladorApp
-Created-By: Maven Integration for Eclipse
-
